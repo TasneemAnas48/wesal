@@ -1,0 +1,5 @@
+*:focus, *:focus-visible { outline: none !important; }
+.btn-secondary:focus, .btn-secondary.focus {
+    border-color: none !important;
+    box-shadow:  0 10px 20px rgb(30 114 148 / 20%) !important;
+}

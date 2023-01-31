@@ -1,0 +1,216 @@
+{
+    "navbar": {
+        "logo": "Logo",
+        "buttonJoin": "Join Wesal",
+        "headerTitles": [
+            {
+                "title": "Home",
+                "scroll": "header"
+            },
+            {
+                "title": "About",
+                "scroll": "About-us"
+            },
+            {
+                "title": "Services",
+                "scroll": "service"
+            },
+            {
+                "title": "Features",
+                "scroll": "features"
+            },
+            {
+                "title": "Benefits we guarantee",
+                "scroll": "benefite"
+            },
+            {
+                "title": "Payment",
+                "scroll": "payment"
+            },
+            {
+                "title": "Our Products",
+                "scroll": "product"
+            },
+            {
+                "title": "F.A.Q",
+                "scroll": "faq"
+            },
+            {
+                "title": "Contact",
+                "scroll": "contact-us"
+            }
+        ]
+    },
+    "header": {
+        "buttonCheck": "Check our products",
+        "buttonJoinFree": "Join Wesal for Free"
+    },
+    "about": {
+        "headerTitle": "About Wesal",
+        "whatIsWesal": {
+            "contentTitle": "What is Wessal Company",
+            "note": "ONLINE PAYMENT GATEWAY",
+            "items": [
+                "We are a global Syrian platform specialized in financial services, seeking to provide an easy and comfortable life inside Syria",
+                "By providing our services to Syrian expatriates around the world to pay household bills, balance transfer services for mobile phones for parents and loved ones inside Syria, pay virtual university fees, and pay passport fees"
+            ]
+        },
+        "misson": {
+            "contentTitle": "Our Mission",
+            "note": "INTO A CASHLESS SOCIETY",
+            "items": [
+                "Providing the best financial services to our clients around the world, based on creativity and technical innovation, with the lowest commissions and the simplest methods."
+            ]
+        },
+        "values": {
+            "contentTitle": "Our Values",
+            "note": "",
+            "items": [
+                "The main goal of the Wesal platform is to serve the community, whether inside or outside Syria, and the basis of this service is based on trust, honesty, and speed in providing services in a technical and automatic manner."
+            ]
+        },
+        "vision": {
+            "contentTitle": "Our Vision",
+            "note": "SPEAK THE WESAL LANGUAGE",
+            "items": [
+                "We seek in the competition the most beautiful thing in the competition, and it seems that all means of comfort and safety for expatriates in Syria; Financial template, turn it over, and so on, and so on, this platform."
+            ]
+        }
+    },
+    "service": {
+        "headerTitle": "Our Services"
+    },
+    "features": {
+        "headerTitle": "Our Features",
+        "note": "MAKE YOUR LIFE EASIER WITH SMART PAYMENT SYSTEMS",
+        "items": [
+            {
+                "title": "Security and reliability",
+                "content": "We seek to create a safer online experience, based on information privacy, speed in providing service, and secure payment methods"
+            },
+            {
+                "title": "Accessibility",
+                "content": "We have crossed the limits of space and time, our services are available to all people around the world, 24 hours a day"
+            },
+            {
+                "title": "Automatic and immediate services",
+                "content": "All our services provided are done automatically, at any time, and from anywhere in the world to Syria, in just a moment"
+            },
+            {
+                "title": "Nominal rates and commission",
+                "content": "Without any additional costs, our prices are symbolic, and include the total cost of each service, including the cost of the financial tax, and the commission of the money transfer"
+            },
+            {
+                "title": "Possibility of payment in multiple currencies",
+                "content": "Supports the payment connection in more than one currency, where you can pay in international currencies or the currency in the country in which you live, you can see the currencies that we support in the option of payment methods and available currencies"
+            },
+            {
+                "title": "Multiple electronic payment methods and gateways",
+                "content": "The payment connection is supported in more than one way, in addition to the possibility of paying from the bank account, so you have multiple options. You can see the payment methods that we support in the option of available payment methods and currencies"
+            }
+        ]
+    },
+    "benefite": {
+        "note": "INSTANT, SIMPLE, AND SAFE",
+        "title": "Benefits we guarantee",
+        "list": [
+            "Fast and secure online payment",
+            "Speed in collecting purchase transaction",
+            "Track sales transaction",
+            "User-friendly applications",
+            "Multiple online payment solutions",
+            "World-class security"
+        ]
+    },
+    "contact": {
+        "stayWithContact": "Get in Touch",
+        "discription": "If you have any inquiry please get in touch, our support team is ready to help you",
+        "formHeader": "Send a quick message",
+        "form": {
+            "name": "Name",
+            "phone": "Phone number",
+            "email": "Email",
+            "message": "Message",
+            "name_placeholder": "Your Name",
+            "message_placeholder": "I need help in ..."
+        },
+        "requiredValidate": "This field is required",
+        "phoneValidate": "Please enter valid phone number",
+        "emailValidate": "Please enter valid email",
+        "submitButton": "Submit"
+    },
+    "footer": {
+        "copyright1": "Copyright © 2022 Wesal",
+        "copyright2": "All rights reserved",
+        "company": "Company",
+        "support": "Support",
+        "termsAndConditions": "Terms & Conditions",
+        "privacy": "Privacy policy"
+    },
+    "FAQ": [
+        {
+            "quastion": "هل يمكنني استخدام التطبيق أو المنصة داخل سوريا؟",
+            "answar": "التطبيق يخدم المغتربين خارج سوريا فقط."
+        },
+        {
+            "quastion": "هل التطبيق متاح فقط للسوريين المغتربين؟",
+            "answar": "أياً كانت جنسيتك في حال كنت خارج سوريا، يمكنك الاستفادة من خدماتنا المقدمة إلى سوريا."
+        },
+        {
+            "quastion": "ماهي خطوات تسجيل حساب الكتروني على الموقع أو التطبيق؟",
+            "answar": "تسجيل الحساب لايتطلب منك معلومات كثيرة، فقط إدخال بريدك الاكتروني، واسمك، ورقم الهاتف الخاص بك."
+        },
+        {
+            "quastion": "ماهي طرق الدفع المتاحة لأتمكن من دفع تكاليف الخدمة",
+            "answar": "توفر منصة وصال أكثر من طريقة للدفع الاكتروني، يمكنك الاطلاع عليها ضمن خيار 'طرق الدفع والعملات المتاحة'."
+        },
+        {
+            "quastion": "هل يوجد عملة محددة لدفع تكلفة الخدمة؟",
+            "answar": "توفر منصة وصال إمكانية الدفع بعدة عملات، يمكنك الاطلاع عليها ضمن خيار 'طرق الدفع والعملات المتاحة'."
+        },
+        {
+            "quastion": "ما هي أسهل طريقة للدفع؟",
+            "answar": "عن طريق البايبال،و الكردت كارد."
+        },
+        {
+            "quastion": "هل يمكنني الدفع عن طريق حساب البنك؟",
+            "answar": "نعم يمكنك."
+        },
+        {
+            "quastion": "هل يوجد أي رسوم إضافية على الأسعار المعروضة؟",
+            "answar": "الأسعار تشمل التكلفة الإجمالية لكل خدمة، بما فيها تكلفة الضريبة المالية، وعمولة التحويل المالي."
+        },
+        {
+            "quastion": "ماذا أفعل في حال حدوث خطأ في كتابة الرقم وإرسال الرصيد لرقم غير موجود؟",
+            "answar": "يمكنك استرداد المبلغ، أو إعادة إرسالة الرصيد للرقم الصحيح."
+        },
+        {
+            "quastion": "في حال لم يتم سحب المبلغ من حساب البايبال الخاص بي، هل تتأخر عملية تحويل الرصيد؟",
+            "answar": "في أيام العطل يحدث تأخير في سحب المبلغ من حسابك البنكي، ويستغرق بين يومين إلى 4 أيام، لكن لا يؤثر على عملية تحويل الرصيد."
+        },
+        {
+            "quastion": "متى يمكنني الاستفادة من كوبون تحويل رصيد مجاني؟",
+            "answar": "عند تسجيل حسابك لأول مرة على موقع أو تطبيق وصال سيتم إرسال كوبون لتحويل رصيد مجاني، وبالتالي ستتمكن من تجربة الخدمة قبل أي عملية دفع."
+        },
+        {
+            "quastion": "ما مدة الاستفادة من الكوبون؟",
+            "answar": "يمكنك الاستفادة من الكوبون مرة واحدة خلال أول 4 أيام من تسجيل حسابك على منصتنا."
+        },
+        {
+            "quastion": "كيف يمكنني الاستفادة من الكوبون؟",
+            "answar": "بعد الدخول للتطبيق واختيار تحويل رصيد، تدخل رقم المستفيد من الرصيد، ثم تضغط على التالي، يمكنك اختيار رسالة SMS ثم تضغط التالي، وتختار زر المتابعة باستخدام الكوبون المجاني، ثم تدخل رمز الكوبون، وتضغط إرسال. "
+        },
+        {
+            "quastion": "ما قيمة الكوبون؟",
+            "answar": "تترواح بين 500 ل 2000 وحدة، يتم وضعها بشكل عشوائي."
+        },
+        {
+            "quastion": "هل يمكنني دفع رسوم تجديد جواز السفر الخاص بي؟",
+            "answar": "نعم يمكنك."
+        },
+        {
+            "quastion": "هل تسديد رسوم جواز السفر فقط للعائلة؟",
+            "answar": "يمكنك تسديد رسوم جواز السفر لأي شخص في سوريا سواء في حالة تجديد الجواز أو الإصدار لأول مرة."
+        }
+    ]
+}
